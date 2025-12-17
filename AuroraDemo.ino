@@ -56,8 +56,8 @@ int currentBrightness = 75;
 volatile bool showClock = false;
 
 // WiFi credentials - MODIFY THESE
-const char* ssid = "SambinelloLan";
-const char* password = "Smbpla62h02l872U=";
+const char* ssid = "IL TUO SSID";
+const char* password = "LA TUA PASSWORD";
 
 // NTP Configuration for Italy (CET/CEST)
 const char* ntpServer = "it.pool.ntp.org";
